@@ -18,8 +18,6 @@
     ├── framework  # 框架 
     |   └── ROS
     ├── language  # 语言
-    │   ├── build-tool  # 构建工具
-    │   │   └── CMake
     │   ├── CLI  # 控制台
     │   │   ├── conda
     │   │   ├── git
@@ -32,6 +30,8 @@
     │   ├── cmd  # 命令
     │   ├── file  # 重要文件功能
     │   └── GNU-compiler  # GNU编译器
+    │       ├── gcc/g++
+    │       └── CMake
     ├── machine_learning  # 机器学习
     ├── share  # 其他有用的链接等的分享
     │    ├── RM  # RM开源链接
