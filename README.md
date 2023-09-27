@@ -1,6 +1,10 @@
-> 此项目暂时为演示项目
+> 此项目暂时为演示项目(会在之后删除)
 
 > 创建日期: 2023/9/21 20:00
+
+请移步新仓库: https://github.com/AovoT/AT-Docs
+
+另新仓库已镜像至队库: https://www.kdrobot.top/git/ovo/AT-Docs
 
 ```sh
 ├── docs  # 文档组织规则等
